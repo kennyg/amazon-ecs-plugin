@@ -29,7 +29,7 @@
     <f:textbox />
   </f:entry>
 
-  <f:entry field="credentialsId" title="${%Amazon ECS Crendentials}">
+  <f:entry field="credentialsId" title="${%Amazon ECS Credentials}">
     <c:select />
   </f:entry>
 
